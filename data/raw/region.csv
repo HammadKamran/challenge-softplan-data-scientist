@@ -1,4 +1,4 @@
-Ordering Plant,Region,Latitude,Longitude
+Address,Region,Latitude,Longitude
 A,Pacific,45.192361,-119.326172
 B,Southwest,33.406988,-101.220704
 C,Midwest,40.424648,-83.378905
